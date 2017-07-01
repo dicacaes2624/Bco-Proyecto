@@ -1,0 +1,4 @@
+co\edu\usbcali\demo\config\SpringConfigTest.class
+co\edu\usbcali\demo\test\ClientesTest.class
+co\edu\usbcali\demo\logica\ClientesLogicaTest.class
+co\edu\usbcali\demo\dao\ClientesDAOTest.class
